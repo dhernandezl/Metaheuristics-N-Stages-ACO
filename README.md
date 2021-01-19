@@ -14,7 +14,9 @@ In [1] presented a form of exploration for the ACO algorithms known as Colony of
 
 ### Get the source
 Clone the Git repository from GitHub\
-`git clone https://github.com/dhernandezl/Metaheuristics-N-Stages-ACO`
+```github
+git clone https://github.com/dhernandezl/Metaheuristics-N-Stages-ACO
+```
 
 ### Reference
 Please include the following related citations:
