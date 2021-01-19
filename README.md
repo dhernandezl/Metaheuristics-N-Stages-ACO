@@ -17,5 +17,5 @@ Clone the Git repository from GitHub\
 `git clone https://github.com/dhernandezl/Metaheuristics-N-Stages-ACO`
 
 ### Reference
-Please include the following related citations:\
+Please include the following related citations:
 1. A. Puris, R. Bello, y F. Herrera, «Analysis of the efficacy of a Two-Stage methodology for ant colony optimization: Case of study with TSP and QAP», Expert Syst. Appl., vol. 37, n.7, pp. 5443-5453, jul.2010, doi: 10.1016/j.eswa.2010.02.069.
