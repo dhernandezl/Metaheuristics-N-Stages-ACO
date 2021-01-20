@@ -11,6 +11,13 @@ In [1] presented a form of exploration for the ACO algorithms known as Colony of
 - Soon there will be more TSP decoders.
 
 ### Installation
+- Java\
+Run\
+Execution using .jar - Download release
+```
+parameters: ant_colony_system_NS.jar file_tsp alpha beta p0 cons_evap num_ants num_iter q0 step percentAnts percentCicle percentNode percentNStepSolution
+java -jar ant_colony_system_NS.jar file_tsp 1 2 0.1 0.1 45 10000 0.1 3 33-33-33 25-25-50 25-25-50 5
+```
 
 ### Get the source
 Clone the Git repository from GitHub\
