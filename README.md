@@ -22,7 +22,7 @@ java -jar ant_colony_system_NS.jar file_tsp 1 2 0.1 0.1 45 10000 0.1 3 33-33-33 
 ```
 
 ### Get the source
-Clone the Git repository from GitHub\
+Clone the Git repository from GitHub
 ```github
 git clone https://github.com/dhernandezl/Metaheuristics-N-Stages-ACO
 ```
