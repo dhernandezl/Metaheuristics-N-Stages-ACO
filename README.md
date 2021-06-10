@@ -4,7 +4,7 @@
 
 Ant Colony Optimization (ACO) is a metaheuristic inspired by the shortest path seeking behavior in ant colonies. This algorithm was developed to solve combinatorial problems such as the Trade Traveler problem, the Quadratic Assignment problem, the Sequential Ordering problem, Production Scheduling, Schedules, Telecommunications Routing, Investment Planning, among others.
 
-In [1] presented a form of exploration for the ACO algorithms known as Colony of Ants in two Stages (Two-Stage ACO). The idea was to divide the exploration carried out by the ants into two phases. This project provides the Ant Colony System (ACS) metaheuristic in an N Stages strategy, to obtain optimal solutions to discrete problems. This project focuses on solving Travel Salesman Problem problems (TSP).
+In [1] presented a form of exploration for the ACO algorithms known as Colony of Ants in two Stages (Two-Stage ACO). The idea was to divide the exploration carried out by the ants into two phases. This project provides the Ant Colony System (ACS) metaheuristic in an N Stages strategy, to obtain optimal solutions to discrete problems. This project focuses on solving Travel Salesman Problem problems (TSP)
 
 ## Features
 - Three TSP file decoders were implemented.
