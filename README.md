@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4475473.svg)](https://doi.org/10.5281/zenodo.4475473)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4475473.svg)](https://doi.org/10.5281/zenodo.4475472)
 
 # Metaheuristics N Stages ACO
 
