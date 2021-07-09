@@ -34,7 +34,7 @@ Run the algorithm using its .jar version or download the project and launch it f
   int percentNStep_Soluction = 5;	
   String file = "input_file\\gr48.tsp";
 ```  
-- Execution example using (*.jar):
+- Execution format using (*.jar):
 ```
 parameters: ant_colony_system_NS.jar file_tsp alpha beta p0 cons_evap num_ants num_iter q0 step percentAnts percentCicle percentNode percentNStepSolution
 java -jar ant_colony_system_NS.jar file_tsp 1 2 0.1 0.1 15 10000 0.1 3 33-33-33 25-25-50 25-25-50 5
