@@ -10,14 +10,15 @@ In [1] presented a form of exploration for the ACO algorithms known as Colony of
 - Three TSP file decoders were implemented.
 - The implementation does not involve external libraries, not typical of Java.
 - The project allows the execution from 2 to N stages.
-- Soon there will be more TSP decoders.
+- This N stages strategy demonstrated better convergence compared to traditional ACO algorithms, maintaining the stability presented [1].
 
 ## Installation
 - Java\
   <a href="https://github.com/dhernandezl/Metaheuristics-N-Stages-ACO/releases">Download release <a>(*.jar)
 
 ## Run  
-Run the algorithm using its .jar version or download the project and launch it from your java IDE.
+Run the algorithm using its .jar version or download the project and launch it from your java IDE. This project receives a variable <strong>percentCant_Ants</strong> which calculates the percentage of ants for each stage, but through an analysis it was concluded that the algorithm presents a superior improvement when using the same number of ants for each stage. It is recommended to send this variable by parameter, even if the values sent within the vector are not taken, since the number of ants sent by parameter is assigned to each space of the vector.
+
 ### Variables for execution
 ``` java
   int num_ants = 15;
