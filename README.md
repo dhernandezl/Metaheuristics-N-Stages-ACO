@@ -14,11 +14,30 @@ In [1] presented a form of exploration for the ACO algorithms known as Colony of
 
 ## Installation
 - Java\
-Run\
-Execution using .jar - Download release
+  <a href="https://github.com/dhernandezl/Metaheuristics-N-Stages-ACO/releases">Download release <a>(*.jar)
+
+## Run  
+Run the algorithm using its .jar version or download the project and launch it from your java IDE.
+### Variables for execution
+``` java
+  int num_ants = 15;
+  int num_iteration = 10000;
+  double alpha = 1;
+  double beta = 2;
+  double p0 = 0.1;
+  double cons_evap = 0.1;
+  double q0 = 0.1;
+  int step = 3;
+  double[] percentAnts = {25,25};
+  double[] percentCicle = {25,25};
+  double[] percentNode = {25,25};
+  int percentNStep_Soluction = 5;	
+  String file = "input_file\\gr48.tsp";
+```  
+- Execution example using (*.jar):
 ```
 parameters: ant_colony_system_NS.jar file_tsp alpha beta p0 cons_evap num_ants num_iter q0 step percentAnts percentCicle percentNode percentNStepSolution
-java -jar ant_colony_system_NS.jar file_tsp 1 2 0.1 0.1 45 10000 0.1 3 33-33-33 25-25-50 25-25-50 5
+java -jar ant_colony_system_NS.jar file_tsp 1 2 0.1 0.1 15 10000 0.1 3 33-33-33 25-25-50 25-25-50 5
 ```
 
 ## Get the source
