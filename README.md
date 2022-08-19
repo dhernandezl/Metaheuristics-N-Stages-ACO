@@ -50,3 +50,4 @@ git clone https://github.com/dhernandezl/Metaheuristics-N-Stages-ACO
 ## References
 Please include the following related citations:
 1. A. Puris, R. Bello, y F. Herrera, «Analysis of the efficacy of a Two-Stage methodology for ant colony optimization: Case of study with TSP and QAP», Expert Syst. Appl., vol. 37, n.7, pp. 5443-5453, jul.2010, doi: 10.1016/j.eswa.2010.02.069.
+2. Hernández, Daniel & Hurtado, Steven & Pérez, Henry & Puris, Amilkar & Novoa-Hernández, Pavel. (2022). META HEURÍSTICA BASADA EN COLONIA DE HORMIGAS EN N ETAPAS PARA PROBLEMAS DE ALTA DIMENSIÓN. Investigacion Operacional. 43. 484-490. 
